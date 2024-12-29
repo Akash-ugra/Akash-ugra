@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akash-ugra. Name is Akash Thakur
 - 👀 I’m interested in Coding, Automation, Automation Testing
 - 🌱 I’m currently learning CI/CD. Starting learning with GitHub Actions. Checkout my first CI job using GitHub Actions: https://github.com/Akash-ugra/sweet-shop-test-automation/actions/runs/12529484970/job/34945138238
-- 💞️ I’m looking to collaborate on Projects, Opensource, Testing project, Automation
+- 💞️ I’m looking to collaborate on Projects, Opensource, Testing Projects, Automation, Test Automation
 - 📫 How to reach me thakurakash28007@gmail.com
 - 😄 Pronouns: he/him
 
